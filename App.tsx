@@ -6,6 +6,7 @@ const App = () => {
     <View>
       {/* Faique ko Allah sabr de */}
       {/* Shahid ko bhi Allah sabr de */}
+      {/* shoeb ko bhi Allah sabr de */}
       <Text>App</Text>
     </View>
   )
